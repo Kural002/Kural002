@@ -1,6 +1,6 @@
 -  I’m @Kural002
 -  I’m interested in Mobile App development
--  I’m currently learning Java Core
+-  I’m currently learning Java Core && Flutter 
 -  kuralarasu2004@gmail.com
 -  www.linkedin.com/in/kural02/
 
